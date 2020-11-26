@@ -3,6 +3,9 @@
         "vector": "cpp",
         "ostream": "cpp",
         "string": "cpp",
-        "regex": "cpp"
+        "regex": "cpp",
+        "algorithm": "cpp",
+        "chrono": "cpp",
+        "iostream": "cpp"
     }
 }
