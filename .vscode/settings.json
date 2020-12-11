@@ -8,6 +8,7 @@
         "chrono": "cpp",
         "iostream": "cpp",
         "iosfwd": "cpp",
-        "utility": "cpp"
+        "utility": "cpp",
+        "bitset": "cpp"
     }
 }
