@@ -9,6 +9,7 @@
         "iostream": "cpp",
         "iosfwd": "cpp",
         "utility": "cpp",
-        "bitset": "cpp"
+        "bitset": "cpp",
+        "queue": "cpp"
     }
 }
