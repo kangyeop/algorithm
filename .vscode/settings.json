@@ -10,6 +10,7 @@
         "iosfwd": "cpp",
         "utility": "cpp",
         "bitset": "cpp",
-        "queue": "cpp"
+        "queue": "cpp",
+        "iterator": "cpp"
     }
 }
