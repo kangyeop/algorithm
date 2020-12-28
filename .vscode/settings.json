@@ -11,6 +11,7 @@
         "utility": "cpp",
         "bitset": "cpp",
         "queue": "cpp",
-        "iterator": "cpp"
+        "iterator": "cpp",
+        "ratio": "cpp"
     }
 }
