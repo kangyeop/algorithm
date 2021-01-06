@@ -12,6 +12,7 @@
         "bitset": "cpp",
         "queue": "cpp",
         "iterator": "cpp",
-        "ratio": "cpp"
+        "ratio": "cpp",
+        "tuple": "cpp"
     }
 }
