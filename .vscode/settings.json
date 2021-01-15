@@ -17,5 +17,6 @@
         "numeric": "cpp",
         "limits": "cpp",
         "map": "cpp"
-    }
+    },
+    "C_Cpp.errorSquiggles": "Disabled"
 }
