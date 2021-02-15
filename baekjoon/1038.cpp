@@ -4,6 +4,8 @@
 
 using namespace std;
 
+// https://maivve.tistory.com/139
+
 int N;
 vector<long long> vec;
 
